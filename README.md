@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manish-2407/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Manish-2407/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manish-2407/LeetCode/tree/master/0125-valid-palindrome) |
+| [0796-rotate-string](https://github.com/Manish-2407/LeetCode/tree/master/0796-rotate-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Manish-2407/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Bit Manipulation
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manish-2407/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Manish-2407/LeetCode/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
