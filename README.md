@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Manish-2407/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manish-2407/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Manish-2407/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Manish-2407/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Manish-2407/LeetCode/tree/master/0258-add-digits) |
 | [1025-divisor-game](https://github.com/Manish-2407/LeetCode/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manish-2407/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Manish-2407/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Manish-2407/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Manish-2407/LeetCode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Manish-2407/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Manish-2407/LeetCode/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Manish-2407/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
