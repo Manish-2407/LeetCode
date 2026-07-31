@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manish-2407/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Manish-2407/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Manish-2407/LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Manish-2407/LeetCode/tree/master/0326-power-of-three) |
 | [1025-divisor-game](https://github.com/Manish-2407/LeetCode/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manish-2407/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Manish-2407/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -142,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Manish-2407/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Manish-2407/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
