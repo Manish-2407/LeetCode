@@ -15,7 +15,6 @@ public:
         }
         v.push_back(c);
         int ans=accumulate(v.begin(),v.end(),0,[](int a,int b){return __gcd(a,b);});
-        if(ans==1) return false;
-        return true;
+        return ans>1;
     }
 };
