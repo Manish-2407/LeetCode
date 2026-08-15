@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Manish-2407/LeetCode/tree/master/0326-power-of-three) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/Manish-2407/LeetCode/tree/master/1025-divisor-game) |
+| [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manish-2407/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Manish-2407/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Manish-2407/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manish-2407/LeetCode/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/Manish-2407/LeetCode/tree/master/0796-rotate-string) |
+| [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Manish-2407/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Bit Manipulation
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Manish-2407/LeetCode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manish-2407/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
@@ -180,8 +183,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
