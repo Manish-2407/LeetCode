@@ -189,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Manish-2407/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
