@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Manish-2407/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Manish-2407/LeetCode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/Manish-2407/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Manish-2407/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manish-2407/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Manish-2407/LeetCode/tree/master/0189-rotate-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Manish-2407/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Manish-2407/LeetCode/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Manish-2407/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Manish-2407/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Manish-2407/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
