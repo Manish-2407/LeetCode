@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Manish-2407/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Manish-2407/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Manish-2407/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Manish-2407/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Manish-2407/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Manish-2407/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manish-2407/LeetCode/tree/master/0070-climbing-stairs) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manish-2407/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Manish-2407/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Manish-2407/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manish-2407/LeetCode/tree/master/0326-power-of-three) |
 ## Stack
