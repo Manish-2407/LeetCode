@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Manish-2407/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Manish-2407/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Manish-2407/LeetCode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Manish-2407/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Manish-2407/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manish-2407/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manish-2407/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Manish-2407/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Manish-2407/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Manish-2407/LeetCode/tree/master/0118-pascals-triangle) |
 | [1025-divisor-game](https://github.com/Manish-2407/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
