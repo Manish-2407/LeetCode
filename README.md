@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish-2407/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish-2407/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Manish-2407/LeetCode/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Manish-2407/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Manish-2407/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Manish-2407/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish-2407/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish-2407/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Manish-2407/LeetCode/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Manish-2407/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Math
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manish-2407/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Manish-2407/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Manish-2407/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Manish-2407/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manish-2407/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Manish-2407/LeetCode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish-2407/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Manish-2407/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Manish-2407/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Manish-2407/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manish-2407/LeetCode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Manish-2407/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Simulation
 |  |
