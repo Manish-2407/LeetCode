@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Manish-2407/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Manish-2407/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Manish-2407/LeetCode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Manish-2407/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Manish-2407/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Manish-2407/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Manish-2407/LeetCode/tree/master/0078-subsets) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Manish-2407/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Manish-2407/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Manish-2407/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Manish-2407/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manish-2407/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Manish-2407/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Manish-2407/LeetCode/tree/master/0069-sqrtx) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Manish-2407/LeetCode/tree/master/0223-rectangle-area) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Manish-2407/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
