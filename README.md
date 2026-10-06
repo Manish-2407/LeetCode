@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Manish-2407/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Manish-2407/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Manish-2407/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Manish-2407/LeetCode/tree/master/0412-fizz-buzz) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/Manish-2407/LeetCode/tree/master/1025-divisor-game) |
 | [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Manish-2407/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Manish-2407/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manish-2407/LeetCode/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/Manish-2407/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Manish-2407/LeetCode/tree/master/0796-rotate-string) |
 | [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Manish-2407/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manish-2407/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Manish-2407/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Manish-2407/LeetCode/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
 | ------- |
