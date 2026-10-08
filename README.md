@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Manish-2407/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manish-2407/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Manish-2407/LeetCode/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/Manish-2407/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Manish-2407/LeetCode/tree/master/0796-rotate-string) |
 | [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Manish-2407/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
