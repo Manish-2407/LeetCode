@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Manish-2407/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Manish-2407/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Manish-2407/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0875-koko-eating-bananas](https://github.com/Manish-2407/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Manish-2407/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Manish-2407/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manish-2407/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Manish-2407/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0875-koko-eating-bananas](https://github.com/Manish-2407/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Manish-2407/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
 |  |
