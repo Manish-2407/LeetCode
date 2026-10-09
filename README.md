@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Manish-2407/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Manish-2407/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Manish-2407/LeetCode/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Manish-2407/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Manish-2407/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Bit Manipulation
@@ -237,10 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manish-2407/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Manish-2407/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manish-2407/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Manish-2407/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Euclidean Algorithm
 |  |
 | ------- |
