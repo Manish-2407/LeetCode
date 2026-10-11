@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Manish-2407/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Manish-2407/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/Manish-2407/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Manish-2407/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/Manish-2407/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Manish-2407/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/Manish-2407/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
