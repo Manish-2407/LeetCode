@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manish-2407/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Manish-2407/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Manish-2407/LeetCode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Manish-2407/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish-2407/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manish-2407/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Manish-2407/LeetCode/tree/master/0525-contiguous-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Manish-2407/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Manish-2407/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manish-2407/LeetCode/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/Manish-2407/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Manish-2407/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Manish-2407/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Manish-2407/LeetCode/tree/master/0796-rotate-string) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Manish-2407/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Manish-2407/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Manish-2407/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Manish-2407/LeetCode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Manish-2407/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Manish-2407/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Manish-2407/LeetCode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Manish-2407/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manish-2407/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Manish-2407/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Manish-2407/LeetCode/tree/master/0611-valid-triangle-number) |
