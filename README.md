@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manish-2407/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Manish-2407/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Manish-2407/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manish-2407/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Manish-2407/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Sliding Window
 |  |
 | ------- |
