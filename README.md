@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Manish-2407/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Manish-2407/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manish-2407/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Manish-2407/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/Manish-2407/LeetCode/tree/master/1025-divisor-game) |
 | [1447-simplified-fractions](https://github.com/Manish-2407/LeetCode/tree/master/1447-simplified-fractions) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manish-2407/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manish-2407/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Manish-2407/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Manish-2407/LeetCode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
